@@ -84,7 +84,7 @@
 
 
 @endsection
-
+<!--Testing to see if dev changes merged into master will increase contributions on github-->
 <!--@section ('footer')-->
 <!--    <script src="/js/file.js"></script>-->
 <!--@endsection-->
