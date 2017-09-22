@@ -2,15 +2,7 @@
 
 @section ('content')
 
-<div class="blog-header">
-    <div class="container">
-        <h1 class="blog-title">The Bootstrap Blog</h1>
-        <p class="lead blog-description">An example blog template built with Bootstrap.</p>
-    </div>
-</div>
-<div class="container">
 
-    <div class="row">
 
         <div class="col-sm-8 blog-main">
 
@@ -30,7 +22,7 @@
                 <h3>Sub-heading</h3>
                 <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
                 <pre><code>Example code block</code></pre>
-                <p>Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
+                 <p>Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.</p>
                 <h3>Sub-heading</h3>
                 <p>Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
                 <ul>
@@ -79,12 +71,9 @@
             </nav>
 
         </div><!-- /.blog-main -->
-    </div>
-</div>
 
 
 @endsection
-<!--Testing to see if dev changes merged into master will increase contributions on github-->
 <!--@section ('footer')-->
 <!--    <script src="/js/file.js"></script>-->
 <!--@endsection-->
